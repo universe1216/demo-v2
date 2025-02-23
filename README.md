@@ -25,8 +25,8 @@ In order to work with this project here's what you'll need to do...
 1. Install the following if you don't already have them
   * [node.js](https://nodejs.org/en/ "Node.js")
   * [git](https://git-scm.com/ "Git")<br /><br />
-2. Clone the repository down to your computer<br />`https://github.com/pluralsight-styling-angular-apps/demos-v2.git`<br /><br />
-3. CD to the project folder<br />`cd demos-v2`<br /><br />
+2. Clone the repository down to your computer<br />`https://github.com/pluralsight-styling-angular-apps/ts-demo.git`<br /><br />
+3. CD to the project folder<br />`cd ts-demo`<br /><br />
 4. Install project dependencies<br />`npm install`<br /><br />
 5. Build the code, watch for file changes, and serve up the site locally<br />`npm start`
 
